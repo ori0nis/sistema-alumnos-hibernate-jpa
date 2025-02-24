@@ -6,7 +6,7 @@ This project is my first attempt at managing a database that has several tables.
 
 It also contains a few classes where I practiced with the different life cycle stages of the data.
 
-_*Disclaimer:_ Unlike most of my previous projects, this one was created without an embedded server. As such, it requires deployment on your side.
+_*Disclaimer: Unlike most of my previous projects, this one was created without an embedded server. As such, it requires deployment on your side._
 
 Technologies used include:
 
