@@ -2,7 +2,7 @@
 
 Sistema de Alumnos is a simple management system where you can add, modify or delete students that are allocated in a SQL database.
 
-This project is my first attempt at managing a database that has several tables. I wanted to dig a bit deeper into my Hibernate knowledge to fully grasp the way a backend deals with a database, and I decided to choose a servlet/JPA approach to increase my base knowledge of HTTP requests before I fully jump into Angular and React.
+This project is my first attempt at managing a database that has several tables. I wanted to dig a bit deeper into my Hibernate knowledge to fully grasp the way a backend deals with a database, and I decided to choose a servlet/JSP approach to increase my base knowledge of HTTP requests before I fully jump into Angular and React.
 
 It also contains a few classes where I practiced with the different life cycle stages of the data.
 
